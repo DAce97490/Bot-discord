@@ -1,0 +1,12 @@
+{
+  "name": "bot",
+  "version": "0.1.0",
+  "description": "discord bot",
+  "main": "main.js",
+  "repository": "https://github.com/DAce97490/Bot-discord.git",
+  "author": "Lucas <lucas97490@yahoo.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
